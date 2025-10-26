@@ -1,0 +1,4 @@
+# Specify the Java Development Kit (JDK) version for JitPack to use.
+# Paper API 1.21 requires Java 21.
+jdk:
+  - openjdk21
